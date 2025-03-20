@@ -4,7 +4,7 @@
 - Ensure you have Node.js installed on your machine.
 - Navigate to the directory containing server.js:
 ```
-   cd .\PROBLEM1
+   cd .\Problem1
 ```
 - Install the required dependencies (The required packages are axios and express):
 ```
