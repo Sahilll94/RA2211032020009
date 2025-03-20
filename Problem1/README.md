@@ -9,7 +9,7 @@ npm install express axios
 
 ## Then on terminal, write the below command
 ```
-node server.js
+node index.js
 ```
 
 # Output Screenshots
