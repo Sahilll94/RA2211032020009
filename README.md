@@ -13,7 +13,7 @@
 
 - Start the server:
 ```
-   node server.js
+   node index.js
 ```
 OR if it says the package is not found then run the below command,
 ```
